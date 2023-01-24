@@ -7,4 +7,4 @@
 ### 1. Creating EC2 instance  
 ### 2. Setting security group  
 ### 3. Connectting EC2 instance by SSH
-### install Apache
+### 4. install Apache
